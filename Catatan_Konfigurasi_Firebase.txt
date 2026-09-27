@@ -1,0 +1,9 @@
+# Catatan Konfigurasi Cloud & API
+# Proyek: Sistem Elektrofisiologi Kopi Lite
+
+[FIREBASE REALTIME DATABASE]
+Database URL = https://elektrofisiologi-kopi-default-rtdb.asia-southeast1.firebasedatabase.app/
+Status = Active (Test Mode)
+Region = asia-southeast1 (Singapore)
+
+*Catatan: URL ini akan digunakan di dalam kode ESP32 untuk mengirim data kelistrikan (Action Potential & Variation Potential) tanaman.*

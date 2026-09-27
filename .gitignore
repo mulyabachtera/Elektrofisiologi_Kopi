@@ -1,0 +1,6 @@
+
+# PBEDS Backend - Sensitive files
+backend/firebase_credentials.json
+backend/.env
+backend/wa_gateway/auth_session/
+backend/wa_gateway/node_modules/
